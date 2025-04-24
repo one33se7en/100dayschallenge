@@ -74,4 +74,16 @@ Now I’ll pray salah, watch an episode of *The Last of Us*, and sleep.
 
 ---
 
+## Macros 
+![WhatsApp Image 2025-04-24 at 21 38 06](https://github.com/user-attachments/assets/885e3a92-31fd-42b1-b219-d13eb4ec601f)
+
+## Calories
+![WhatsApp Image 2025-04-24 at 21 38 07](https://github.com/user-attachments/assets/cb6d290d-02b5-4974-aecd-c5888301810c)
+
+
+## Checklist
+
+![WhatsApp Image 2025-04-24 at 21 38 06 (1)](https://github.com/user-attachments/assets/1c3f0d34-1d21-46fa-81ec-7a35ea3b2deb)
+
+
 **We’ll do it again tomorrow. Let’s go.**
