@@ -18,7 +18,7 @@ Got back home around 8:30 AM, took a shower, had Meal 1, and did some household 
 
 Started hacking at 10 AM.  
 In the first hour, I found what I thought was a bug on one of my favorite private programs and reported it — but turns out, it wasn’t a bug. 😔  
-Team replied within 30 minutes though — big respect for that!  
+Team replied within 30 minutes , I love this program :)
 
 Kept testing till 2 PM, verifying several test cases — all turned out **not vulnerable**.  
 It hurts. Been hacking on this program for the past **7 months**, with ~1300 reps.  
