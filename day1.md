@@ -34,7 +34,7 @@ Saw activity on a bug that a friend and I reported on **Epic Games**.
 Triager couldn’t reproduce it for 3 days, so he gave us his ID for reproduction.  
 My friend was on a trip, so I exploited it using the triager's ID and we got it to **PPR** — though they lowered the severity.
 
-I dropped a comment explaining the real impact and why it's a **high-severity issue**.  
+We dropped a comment explaining the real impact and why it's a **high-severity issue**.  
 Let’s see if they bump the severity again.
 
 ---
