@@ -1,7 +1,7 @@
 # Day 2
 
 ## Morning Routine
-Woke up at **6:15 AM**, made wuzu, prayed salah, and started preparing for the gym.  
+Woke up at **6:15 AM**, did wuzu, performed salah, and started preparing for the gym.  
 Today, I skipped the pre-workout. Yesterday I felt really weird and anxious, and I’m certain it was due to the caffeine. Instead, I went for a classic: black coffee.
 
 Reached the gym around **7:00 AM**.  
