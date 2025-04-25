@@ -40,7 +40,7 @@ It was genuinely a great conversation — he has an exceptional mindset. I learn
 Wrote and submitted the report for the bug I found earlier.
 
 ## Epic Games Testing
-Around **5:00 PM**, **b19r8a14** (won’t reveal his name unless he's okay with it) joined me on Discord.  
+Around **5:00 PM**, **b19r8a14** joined me on Discord.  
 We started testing **Epic Games** together for the ongoing event.  
 We didn’t find anything new, but his past experience with this asset gave me great insights.  
 He’s **super humble**, **skilled**, and an all-around good guy.
