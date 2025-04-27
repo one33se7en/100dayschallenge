@@ -1,4 +1,4 @@
-# Daily Journal - [Date]
+# Day 4
 
 ## Morning
 
