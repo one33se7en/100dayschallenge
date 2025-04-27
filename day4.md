@@ -6,6 +6,7 @@ I woke up around 5:52 AM today.
 Prayed salah.  
 Today was Sunday, so the gym opens after 8 AM.
 
+
 At 6:15 AM, I started testing the target I shortlisted yesterday.  
 But it turned out to be a really complex app:
 - No IDs anywhere.
@@ -49,6 +50,8 @@ Woke up around 3:30 PM. Then I started testing another program.
 - Found 2 bugs: one IDOR and one BAC.
 - The program looks dead, btw.  
 But let’s see — if I get a reply next week, I'll hack more on that program. Wrapped up at 6 PM and prayed salah.
+
+![Untitled design](https://github.com/user-attachments/assets/1acd48d1-8d1c-4c3f-b0ae-cc2519bf4439)
 
 ## Evening
 
