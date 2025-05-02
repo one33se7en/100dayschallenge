@@ -29,6 +29,8 @@ Today my cousin was coming so I went to pick him up :)
 
 ## Calories and Macros
 
+No tracking today.
+
 I had 2 meals outside home but they are simple healthy high protein meals.  
 I hit my protein goal today but I feel like I had like calories above my maintenance, so I will eat less tommorow.
 
