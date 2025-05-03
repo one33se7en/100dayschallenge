@@ -5,7 +5,7 @@ It's 11:30PM I'm so tired and sleepy, and my mother is sick.
 So here is the quick summary for the day, I woke up around 5:30 prayed salah and reached gym around 6:30.
 
 ### Workout
-- Today was legs and front dealt
+Today was legs and front dealt
 - 3 sets of squats on 60 kgs — 10:10:8  
 - 3 sets of leg extension  
 - 3 sets of hamstring curl  
@@ -15,7 +15,7 @@ So here is the quick summary for the day, I woke up around 5:30 prayed salah and
 Reached home around 8AM  
 Shower and meal 1 till 9:30AM  
 
-### Hacking Progress
+### Hacking
 Started hacking around 10AM. I was reading docs of the target and started exploring GraphQL API of the target which I was avoiding for a long time.  
 Luckily I found a BAC.  
 Till 1PM I was finding ways to increase the impact. Then I took 1 hour break.  
