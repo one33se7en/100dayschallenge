@@ -31,7 +31,8 @@ Wrote a nice report and submitted it.
 
 After 4PM there were thunderstorms and I stopped hacking.
 
-Around 7PM Mohsin bhai (tabahi) called and we talked for more than an hour. It was really nice talking to him, we talked about life, gym, mindset, and techniques.
+Around 7PM Mohsin bhai (tabahi) called and we talked for more than an hour. It was really nice talking to him, we talked about life, gym, mindset, and techniques. 
+
 ---
 
 ### Calories
